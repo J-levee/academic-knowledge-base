@@ -1,7 +1,7 @@
 {
   "name": "academic-knowledge-base",
-  "version": "3.10.0",
-  "description": "AI构建个人学术知识库 — 自动提取论文摘要、关键词、方法、结论，支持多篇对比分析、知识图谱构建。首次使用自动注册（免费100次/月）。",
+  "version": "3.11",
+  "description": "|",
   "author": {
     "name": "J-levee",
     "url": "https://github.com/J-levee"
@@ -9,13 +9,12 @@
   "repository": "https://github.com/J-levee/academic-knowledge-base",
   "license": "MIT",
   "keywords": [
-    "knowledge-base",
+    "smartlib",
+    "literature-search",
     "academic",
-    "literature-review",
-    "知识库",
-    "文献管理",
+    "文献检索",
     "学术",
-    "research-notes"
+    "citation"
   ],
   "skills": [
     "./SKILL.md"
