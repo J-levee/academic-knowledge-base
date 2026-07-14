@@ -1,7 +1,7 @@
 {
   "name": "academic-knowledge-base",
   "description": "个人学术知识库——Karpathy LLM Wiki 知识编译 + SmartLib 文献检索 + 向量化语义检索，让每次研究沉淀为知识资产。",
-  "version": "3.11",
+  "version": "3.11.1",
   "author": {
     "name": "SmartLib"
   },
