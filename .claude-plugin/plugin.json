@@ -1,0 +1,11 @@
+{
+  "name": "academic-knowledge-base",
+  "description": "个人学术知识库——Karpathy LLM Wiki 知识编译 + SmartLib 文献检索 + 向量化语义检索，让每次研究沉淀为知识资产。",
+  "version": "3.11",
+  "author": {
+    "name": "SmartLib"
+  },
+  "homepage": "https://skillhub.tencent.com",
+  "repository": "https://github.com/J-levee/academic-knowledge-base",
+  "license": "MIT"
+}
